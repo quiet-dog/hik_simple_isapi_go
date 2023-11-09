@@ -1,4 +1,4 @@
-package hk_gateway
+package hik
 
 import (
 	"crypto/md5"

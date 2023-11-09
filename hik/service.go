@@ -1,4 +1,4 @@
-package hk_gateway
+package hik
 
 // 发送校验账号密码
 func (h *HikGateway) UserCheck(key string) (result *UserCheckRes, err error) {

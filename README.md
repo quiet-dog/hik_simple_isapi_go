@@ -1,2 +1,5 @@
-# hik_simple_gateway_go
-一个关于golang简单的海康isapi转发服务
+# 一个简单的golang关于hik isapi的接口转发服务
+
+1. 支持多个摄像头接入
+2. 支持摘要认证
+3. 支持多个海康事件长连接广播
