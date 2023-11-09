@@ -1,0 +1,2 @@
+# hik_simple_gateway_go
+一个关于golang简单的海康isapi转发服务
